@@ -1,0 +1,35 @@
+#buttons{
+	margin:10px auto;
+	width :410px;
+	height:40px;
+}
+button{
+	margin:0 auto;
+	width:200px;
+	height:40px;
+	border-radius:10px;
+	background-color: #3498db;
+	color: #ffffff;
+	font-size:15px;
+}
+#container{
+	margin:10px auto;
+	width:960px;
+	height:960px;
+	border:1px solid black;
+}
+.row{
+	width:960px;
+	height:60px;
+}
+.square{
+	background-color:#F8F8FF;
+	display: inline-block;
+	height:60px;
+	width:60px;
+	opacity:0;
+}
+.highlighted{
+	background-color:#0c1814;
+	opacity: 1;
+}
